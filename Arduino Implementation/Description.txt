@@ -1,0 +1,2 @@
+The first implementation involved utilizing an Arduino both for capture and pre-processing of the sound data. This caused issues due to serial
+travel time, blocking writing functions, and limited clock rate. As such, this implementation proved to be less than optimal.

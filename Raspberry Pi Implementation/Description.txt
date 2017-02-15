@@ -1,0 +1,2 @@
+An intermediate implementation involved the use of a Raspberry Pi HAT consisting of an 8 channel ADC with 24 bit sample accuracy. While
+this was very high quality, the conversion rate was too slow to be considered useful in the desired application.
